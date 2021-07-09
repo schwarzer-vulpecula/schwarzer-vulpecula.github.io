@@ -14,3 +14,4 @@ Send an email to `schwarzer.vulpecula@gmail.com` if you have any questions.
 
 # My Projects
 * [mini-forum-rails](./mini-forum-rails)
+* [image-gallery-express](./image-gallery-express)
